@@ -1,0 +1,26 @@
+{
+  "name": "mern-project-area-claculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NIKKON-LAWRANCE/mern-project-area-claculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NIKKON-LAWRANCE/mern-project-area-claculator/issues"
+  },
+  "homepage": "https://github.com/NIKKON-LAWRANCE/mern-project-area-claculator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
